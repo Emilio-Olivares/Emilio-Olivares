@@ -1,6 +1,5 @@
 # Hello everyone👋, welcome to my repository.
-![b02](https://github.com/Emilio-Olivares/Emilio-Olivares/assets/159938168/33267070-a9dc-4770-8e99-13cea7d74989)
-
+![b03](https://github.com/Emilio-Olivares/Emilio-Olivares/assets/159938168/245dc523-d66b-45f4-93cf-08f9b7f15c03)
 ## I introduce myself :sunglasses:
 
 I am a recently graduated computer engineer and cybersecurity specialist. A year ago I got my degree as a programmer analyst and before that, I spent more than a decade immersed in the design world.
