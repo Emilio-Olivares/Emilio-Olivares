@@ -1,5 +1,11 @@
-# Hola a todos👋, bienvenidos a mi repositorio
+# Hello everyone👋, welcome to my repository.
 ![b02](https://github.com/Emilio-Olivares/Emilio-Olivares/assets/159938168/33267070-a9dc-4770-8e99-13cea7d74989)
+
+## I introduce myself :sunglasses:
+
+I am a recently graduated computer engineer and cybersecurity specialist. A year ago I got my degree as a programmer analyst and before that, I spent more than a decade immersed in the design world.
+
+Outside of tech, I enjoy listening to all types of music, from rock 🎸 to classical 🎻, and I have a weakness for suspense 🎬 and comedy 😂 movies. Also, I am a Christian ✝️, which has been a fundamental part of my life and values. I am married 💑 and the father of two wonderful children 👨‍👩‍👦‍👦, who are my greatest inspiration and motivation 🚀.
 
 <!--
 **Emilio-Olivares/Emilio-Olivares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
