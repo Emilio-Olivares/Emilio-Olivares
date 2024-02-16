@@ -1,5 +1,5 @@
 # Hola a todos👋, bienvenidos a mi repositorio
-![b01](https://github.com/Emilio-Olivares/Emilio-Olivares/assets/159938168/b5c54dc0-1f50-4b91-b91d-341068b91309)
+![b02](https://github.com/Emilio-Olivares/Emilio-Olivares/assets/159938168/33267070-a9dc-4770-8e99-13cea7d74989)
 
 <!--
 **Emilio-Olivares/Emilio-Olivares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
