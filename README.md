@@ -35,7 +35,7 @@ Outside of tech, I enjoy listening to all types of music, from rock 🎸 to clas
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00B2A9)
 ![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=csharp&logoColor=white&color=00B2A9)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00B2A9)
-![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=#8B8000)
+![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=EDD100)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=658D1B)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=658D1B)
 ![](https://img.shields.io/badge/Cibersecurity-Kali%20Lunux-informational?style=flat&logo=kalilinux&logoColor=white&color=BE3A34)
